@@ -415,12 +415,8 @@ export default function Home() {
                   className="underline hover:text-black transition-colors cursor-pointer"
                   onClick={(e) => handleCopy("contato@equilibria.com", e)}
                 >
-                  contato@equilibria.com
+                  clinicapsicologicaequilibria@gmail.com
                 </a>
-              </div>
-              <div>
-                <span className="font-semibold">Endereço:</span> Rua Exemplo,
-                123 - Curitiba/PR
               </div>
             </div>
           </div>

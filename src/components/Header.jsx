@@ -36,7 +36,7 @@ export default function Header() {
                 priority
               />
             </div>
-            <span className="ml-2 text-2xl font-semibold text-gray-800 transition-colors select-none font-semibold">
+            <span className="ml-2 text-2xl font-semibold text-gray-800 transition-colors select-none font-semibold font-serif">
               Equilibria
             </span>
           </button>

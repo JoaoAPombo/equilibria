@@ -43,8 +43,8 @@ const professionals = [
   {
     name: "Dra. Maria Eduarda",
     specialty: "Psicóloga",
-    description1: "a.",
-    description2: "b.",
+    description1: "Psicóloga clínica pela abordagem da psicanálise.",
+    description2: "Atendimentos para adolescentes, adultos e idosos.",
     image: "/imgs/fotoMadu.jpg",
   },
   {
@@ -175,7 +175,7 @@ export default function Home() {
     <main className="scroll-pt-12 ">
       {/* Hero Section with background image */}
       <section className="min-h-screen flex items-center relative">
-        <div className="absolute inset-0 bg-[url(/imgs/bgV.png)]"></div>
+        <div className="absolute inset-0 bg-[url(/imgs/bgV.png)]" id="home"></div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl">
             <h1 className="text-5xl font-bold text-gray-800 mb-4">
@@ -398,15 +398,6 @@ export default function Home() {
             <div className="space-y-2 text-base">
               <div>
                 <span className="font-semibold">WhatsApp:</span>{" "}
-                <a
-                  href="https://wa.me/554198245072"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="underline hover:text-black transition-colors cursor-pointer"
-                  onClick={(e) => handleCopy("+55 41 98245-072", e)}
-                >
-                  +55 41 98245-072
-                </a>
               </div>
               <div>
                 <span className="font-semibold">Email:</span>{" "}

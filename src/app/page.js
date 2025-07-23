@@ -56,6 +56,15 @@ const professionals = [
       "Atendimento de adultos e idosos com foco em relacionamentos amorosos, relações familiares, análise de sonhos, autoconhecimento, autoestima, processos de transição pessoal, ansiedade, TEA I, sexualidade.",
     image: "/imgs/fotoBrenda.jpg",
   },
+  {
+    name: "Dra. Marina Bittencourt",
+    specialty: "Psicóloga Clinica",
+    description1:
+      "Psicologa Clinica pela abordagem Humanista-existencial, com pós graduação em psicologia centrada na pessoa e logoterapia.",
+    description2:
+      "Atendimento de adolescentes, adultos e idosos, com foco em ajudar achar o sentido de vida, relacionamentos amorosos, dependência emocional, autoestima e autoconhecimento.",
+    image: "/imgs/fotoMariana.jpg",
+  },
 ];
 
 const faqs = [

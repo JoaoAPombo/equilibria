@@ -65,6 +65,15 @@ const professionals = [
       "Atendimento de adolescentes, adultos e idosos, com foco em ajudar achar o sentido de vida, relacionamentos amorosos, dependência emocional, autoestima e autoconhecimento.",
     image: "/imgs/fotoMariana.jpg",
   },
+  {
+    name: "Dr. Gean Oliver",
+    specialty: "Psicólogo Clinico",
+    description1:
+      "Psicólogo Clínico, psicanalista, terapeuta cognitivo comportamental.",
+    description2:
+      "Atendimento a adolescentes, adultos e idosos com ênfase na proteção à vida, tratamento para problemas relacionais, ansiedade, depressão, dependência química e alcoolismo entre outros.",
+    image: "/imgs/fotoGean.jpg",
+  },
 ];
 
 const faqs = [

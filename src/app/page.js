@@ -41,13 +41,6 @@ const professionals = [
     image: "/imgs/fotoSa.jpg",
   },
   {
-    name: "Dra. Maria Eduarda",
-    specialty: "Psicóloga",
-    description1: "Psicóloga clínica pela abordagem da psicanálise.",
-    description2: "Atendimentos para adolescentes, adultos e idosos.",
-    image: "/imgs/fotoMadu.jpg",
-  },
-  {
     name: "Dra. Julia Marques",
     specialty: "Psicóloga Clinica",
     description1: "Psicóloga clínica pela abordagem psicanalítica.",
@@ -63,6 +56,13 @@ const professionals = [
     description2:
       "Atendimento a adolescentes, adultos e idosos com ênfase na proteção à vida, tratamento para problemas relacionais, ansiedade, depressão, dependência química e alcoolismo entre outros.",
     image: "/imgs/fotoGean.jpg",
+  },
+  {
+    name: "Dra. Maria Eduarda",
+    specialty: "Psicóloga",
+    description1: "Psicóloga clínica pela abordagem da psicanálise.",
+    description2: "Atendimentos para adolescentes, adultos e idosos.",
+    image: "/imgs/fotoMadu.jpg",
   },
   {
     name: "Dr. Maicon Lucas Martins",

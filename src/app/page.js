@@ -59,9 +59,9 @@ const professionals = [
     name: "Dr. Maicon Lucas Martins",
     specialty: "Psicólogo Clinico",
     description1:
-      "psicólogo clínico pela abordagem terapia cognitivo-comportamental.",
+      "Psicólogo clínico pela abordagem terapia cognitivo-comportamental.",
     description2:
-      "atendimentos com adolescentes e adultos tratando ansiedade, estresse, Burnout, agressividade e medos.",
+      "Atendimentos com adolescentes e adultos tratando ansiedade, estresse, Burnout, agressividade e medos.",
     image: "/imgs/fotoMaicon.jpg",
   },
   {

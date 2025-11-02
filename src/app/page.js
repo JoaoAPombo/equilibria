@@ -48,22 +48,13 @@ const professionals = [
     image: "/imgs/fotoMadu.jpg",
   },
   {
-    name: "Dra. Brenda Vieira",
-    specialty: "Psicóloga Clinica",
+    name: "Dr. Maicon Lucas Martins",
+    specialty: "Psicólogo Clinico",
     description1:
-      "Psicóloga clínica pela abordagem analítica-junguiana, com pós-graduação em Psicologia Analítica Junguiana e Psicologia em Educação",
+      "psicólogo clínico pela abordagem terapia cognitivo-comportamental.",
     description2:
-      "Atendimento de adultos e idosos com foco em relacionamentos amorosos, relações familiares, análise de sonhos, autoconhecimento, autoestima, processos de transição pessoal, ansiedade, TEA I, sexualidade.",
-    image: "/imgs/fotoBrenda.jpg",
-  },
-  {
-    name: "Dra. Marina Bittencourt",
-    specialty: "Psicóloga Clinica",
-    description1:
-      "Psicologa Clinica pela abordagem Humanista-existencial, com pós graduação em psicologia centrada na pessoa e logoterapia.",
-    description2:
-      "Atendimento de adolescentes, adultos e idosos, com foco em ajudar achar o sentido de vida, relacionamentos amorosos, dependência emocional, autoestima e autoconhecimento.",
-    image: "/imgs/fotoMariana.jpg",
+      "atendimentos com adolescentes e adultos tratando ansiedade, estresse, Burnout, agressividade e medos.",
+    image: "/imgs/fotoMaicon.jpg",
   },
   {
     name: "Dr. Gean Oliver",

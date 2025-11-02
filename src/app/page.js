@@ -56,15 +56,6 @@ const professionals = [
     image: "/imgs/fotoJulia.jpg",
   },
   {
-    name: "Dr. Maicon Lucas Martins",
-    specialty: "Psicólogo Clinico",
-    description1:
-      "Psicólogo clínico pela abordagem terapia cognitivo-comportamental.",
-    description2:
-      "Atendimentos com adolescentes e adultos tratando ansiedade, estresse, Burnout, agressividade e medos.",
-    image: "/imgs/fotoMaicon.jpg",
-  },
-  {
     name: "Dr. Gean Oliver",
     specialty: "Psicólogo Clinico",
     description1:
@@ -72,6 +63,15 @@ const professionals = [
     description2:
       "Atendimento a adolescentes, adultos e idosos com ênfase na proteção à vida, tratamento para problemas relacionais, ansiedade, depressão, dependência química e alcoolismo entre outros.",
     image: "/imgs/fotoGean.jpg",
+  },
+  {
+    name: "Dr. Maicon Lucas Martins",
+    specialty: "Psicólogo Clinico",
+    description1:
+      "Psicólogo clínico pela abordagem terapia cognitivo-comportamental.",
+    description2:
+      "Atendimentos com adolescentes e adultos tratando ansiedade, estresse, Burnout, agressividade e medos.",
+    image: "/imgs/fotoMaicon.jpg",
   },
 ];
 

@@ -48,6 +48,14 @@ const professionals = [
     image: "/imgs/fotoMadu.jpg",
   },
   {
+    name: "Dra. Julia Marques",
+    specialty: "Psicóloga Clinica",
+    description1: "Psicóloga clínica pela abordagem psicanalítica.",
+    description2:
+      "Atendimento de adolescentes e adultos, com foco em processos de autoconhecimento, transformação pessoal e compreensão das próprias dores.",
+    image: "/imgs/fotoBrenda.jpg",
+  },
+  {
     name: "Dr. Maicon Lucas Martins",
     specialty: "Psicólogo Clinico",
     description1:

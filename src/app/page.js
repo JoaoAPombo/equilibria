@@ -41,14 +41,6 @@ const professionals = [
     image: "/imgs/fotoSa.jpg",
   },
   {
-    name: "Dra. Julia Marques",
-    specialty: "Psicóloga Clinica",
-    description1: "Psicóloga clínica pela abordagem psicanalítica.",
-    description2:
-      "Atendimento de adolescentes e adultos, com foco em processos de autoconhecimento, transformação pessoal e compreensão das próprias dores.",
-    image: "/imgs/fotoJulia.jpg",
-  },
-  {
     name: "Dr. Gean Oliver",
     specialty: "Psicólogo Clinico",
     description1:
